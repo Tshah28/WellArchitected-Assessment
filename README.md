@@ -31,7 +31,7 @@ For each scoped assessment, the content is structured through three technical le
 | SAP | [Assessment](./assessments/scenarios/sap.md) | - |
 | Azure Virtual Desktop | [Assessment](./assessments/scenarios/avd.md) | - |
 | IoT | (in development) | - |
-| Databricks | (in development) | [Assessment](./assessments/scenarios/databricks.md) | - |
+| Databricks | [Assessment](./assessments/scenarios/databricks.md) | - |
 
 # Repository Structure
 
