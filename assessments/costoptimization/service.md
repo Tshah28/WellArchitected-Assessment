@@ -79,7 +79,7 @@ This list contains design considerations and recommended configuration options, 
   > (in preview as of 11/2020) Replicate, failover and failback your business-critical virtual machines within the same region with zones. Ideal for those that have complicated networking infrastructure and want to avoid the cost and complexity of recreating it in a secondary region.
                             
 * Perform a review of SKUs that could benefit from Reserved Instances for 1 or 3 years or more.
-  > Purchasing reserved instances is a way to reduce Azure costs for workloads with stable usage. You have to manage utilization: if it’s too low then you are paying for resources that are not being used. One advice is to keep RI instances simple and not trying to have too much management overhead that has to be factored in as well as part of the cost.
+  > Purchasing reserved instances is a way to reduce Azure costs for workloads with stable\longterm usage. You have to manage utilization: if it’s too low then you are paying for resources that are not being used. One advice is to keep RI instances simple and not trying to have too much management overhead that has to be factored in as well as part of the cost.
                             
 # Data
         
